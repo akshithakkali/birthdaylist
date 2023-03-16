@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/birthdaylist/static/css/main.8bee4867.css",
+    "main.js": "/birthdaylist/static/js/main.d9a25f26.js",
+    "index.html": "/birthdaylist/index.html",
+    "main.8bee4867.css.map": "/birthdaylist/static/css/main.8bee4867.css.map",
+    "main.d9a25f26.js.map": "/birthdaylist/static/js/main.d9a25f26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bee4867.css",
+    "static/js/main.d9a25f26.js"
+  ]
+}
